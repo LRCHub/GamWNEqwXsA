@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Dark Side Of The Moon",
+  "base_artist": "リヴァイ(CV:神谷浩史)",
+  "createdAt": "2025-12-26T06:10:02.611450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dark Side Of The Moon",
+      "artist": "Mystic Prophecy",
+      "has_synced": false,
+      "path": "select/01_Dark_Side_Of_The_Moon_Mystic_Prophecy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dark Side Of The Moon",
+      "artist": "suisside",
+      "has_synced": true,
+      "path": "select/02_Dark_Side_Of_The_Moon_suisside.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dark Side Of The Moon",
+      "artist": "suisside",
+      "has_synced": true,
+      "path": "select/03_Dark_Side_Of_The_Moon_suisside.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dark Side of the Moon",
+      "artist": "Chris Staples",
+      "has_synced": false,
+      "path": "select/04_Dark_Side_of_the_Moon_Chris_Staples.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dark Side Of The Moon",
+      "artist": "Ernesto vs. Bastian",
+      "has_synced": false,
+      "path": "select/05_Dark_Side_Of_The_Moon_Ernesto_vs._Bastian.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "dark side of the moon",
+      "artist": "Daegho",
+      "has_synced": true,
+      "path": "select/06_dark_side_of_the_moon_Daegho.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dark Side Of The Moon (Video Mix)",
+      "artist": "Dune",
+      "has_synced": false,
+      "path": "select/07_Dark_Side_Of_The_Moon_(Video_Mix)_Dune.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dark Side of the Moon",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/08_Dark_Side_of_the_Moon_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Dark Side of the Moon",
+      "artist": "Nargaroth",
+      "has_synced": false,
+      "path": "select/09_The_Dark_Side_of_the_Moon_Nargaroth.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Siempre Tu (Dark Side Of The Moon)",
+      "artist": "Alejandra Guzmán",
+      "has_synced": true,
+      "path": "select/10_Siempre_Tu_(Dark_Side_Of_The_Moon)_Alejandra_Guzmán.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dark Side of the Moon",
+      "artist": "Andy and the Rockets",
+      "has_synced": true,
+      "path": "select/11_Dark_Side_of_the_Moon_Andy_and_the_Rockets.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dark Side Of The Moon (Viframa Remix)",
+      "artist": "VA",
+      "has_synced": false,
+      "path": "select/12_Dark_Side_Of_The_Moon_(Viframa_Remix)_VA.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dark Side Of The Moon",
+      "artist": "Ernesto vs. Bastian",
+      "has_synced": true,
+      "path": "select/13_Dark_Side_Of_The_Moon_Ernesto_vs._Bastian.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dark Side of the Moon",
+      "artist": "SCL Project(natsuP)",
+      "has_synced": true,
+      "path": "select/14_Dark_Side_of_the_Moon_SCL_Project(natsuP).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dark Side of the Moon (2008 Edit)",
+      "artist": "Ernesto vs Bastian",
+      "has_synced": false,
+      "path": "select/15_Dark_Side_of_the_Moon_(2008_Edit)_Ernesto_vs_Bastian.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dark Side of the Moon",
+      "artist": "Redlight King",
+      "has_synced": false,
+      "path": "select/16_Dark_Side_of_the_Moon_Redlight_King.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dark Side Of The Moon",
+      "artist": "リヴァイ(CV:神谷浩史)",
+      "has_synced": false,
+      "path": "select/pl_01_Dark_Side_Of_The_Moon_リヴァイ(CV_神谷浩史).txt"
+    }
+  ]
+}
